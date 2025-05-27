@@ -6,6 +6,7 @@ var productCategory = document.getElementById("productCat");
 var productContainer = document.getElementById("productContainer");
 var productList = [];
 
+
 function addProduct() {
   var product = {
     pName: productName.value,
